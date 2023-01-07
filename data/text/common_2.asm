@@ -663,7 +663,7 @@ _YouCantUseItInABattleText::
 	prompt
 
 _AreYouABoyOrAreYouAGirlText::
-	text "Are you a boy?"
+	text "Hello?"
 	line "Or are you a girl?"
 	done
 
